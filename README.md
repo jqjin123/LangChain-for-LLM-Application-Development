@@ -6,6 +6,7 @@
 
 ## Course Summary
 In this course, you will dive into various topics that will empower you to leverage the LangChain framework effectively. Here's what you can expect to learn and experience:
+![alt text](images/content.png)
 
 1. 📚 **Models, Prompts and Parsers**: Discover how to call Language Models (LLMs), provide prompts, and parse the responses.
 2. 🧠 **Memories for LLMs**: Learn how to employ memories to store conversations and manage limited context space effectively.
